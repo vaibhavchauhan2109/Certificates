@@ -17,5 +17,6 @@
 ![python](https://github.com/vaibhavchauhan2109/Certificates/blob/master/certificates/python.jpg?raw=true)
 ## python3
 ![python3](https://github.com/vaibhavchauhan2109/Certificates/blob/master/certificates/python3.jpg?raw=true)
-
+## PySpark
+![PySpark](https://github.com/vaibhavchauhan2109/Certificates/blob/62d41e1f7694a8a928a325fbe8fd3df1bbd9931d/certificates/Vaibhav%20Singh%20Chauhan_001.png?raw=true)
 
